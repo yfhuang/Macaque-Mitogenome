@@ -5,7 +5,7 @@ This project was published on PLoS ONE.
 
 Huang YF, Midha M, Chen TH, Wang YT, Smith DG, et al. (2015) Complete Taiwanese Macaque (Macaca cyclopis) Mitochondrial Genome: Reference-Assisted de novo Assembly with Multiple k-mer Strategy. PLoS ONE 10(6): e0130673. https://doi.org/10.1371/journal.pone.0130673
 
-20180919
+__20180919__
 
 147 macaque complete mitogenome in GenBank, from 19 macaque species.
 
