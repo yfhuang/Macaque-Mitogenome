@@ -7,7 +7,7 @@ Huang YF, Midha M, Chen TH, Wang YT, Smith DG, et al. (2015) Complete Taiwanese 
 
 __20180919__
 
-147 macaque complete mitogenome in GenBank, from 19 macaque species.
+147 macaque complete mitogenomes in GenBank, from 19 macaque species.
 
 * *Macaca arctoides*
 * *Macaca assamensis*
