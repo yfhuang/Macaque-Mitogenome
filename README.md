@@ -8,22 +8,22 @@ Huang YF, Midha M, Chen TH, Wang YT, Smith DG, et al. (2015) Complete Taiwanese 
 20180919
 147 macaque complete mitogenome in GenBank, from 19 macaque species.
 
-+Macaca arctoides
-+Macaca assamensis
-+Macaca cyclopis
-+Macaca fascicularis
-+Macaca fascicularis aureus
-+Macaca fuscata
-+Macaca leonina
-+Macaca leucogenys
-+Macaca mulatta
-+Macaca mulatta lasiotus
-+Macaca mulatta vestita
-+Macaca nemestrina
-+Macaca nigra
-+Macaca radiata
-+Macaca silenus
-+Macaca sinica
-+Macaca sylvanus
-+Macaca thibetana
-+Macaca tonkeana
+Macaca arctoides
+Macaca assamensis
+Macaca cyclopis
+Macaca fascicularis
+Macaca fascicularis aureus
+Macaca fuscata
+Macaca leonina
+Macaca leucogenys
+Macaca mulatta
+Macaca mulatta lasiotus
+Macaca mulatta vestita
+Macaca nemestrina
+Macaca nigra
+Macaca radiata
+Macaca silenus
+Macaca sinica
+Macaca sylvanus
+Macaca thibetana
+Macaca tonkeana
